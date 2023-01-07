@@ -1,0 +1,562 @@
+[
+    {
+        "test": "a beau mentir qui *** de loin",
+        "choices": [
+            "vient",
+            "part",
+            "revient",
+            "programme"
+        ],
+        "solution": "vient"
+    },
+    {
+        "test": "a beau *** qui vient de loin",
+        "choices": [
+            "mentir",
+            "savoir",
+            "temps",
+            "dire"
+        ],
+        "solution": "mentir"
+    },
+    {
+        "test": "année de gelée, *** de blé",
+        "choices": [
+            "année",
+            "absence",
+            "saison",
+            "mois"
+        ],
+        "solution": "année"
+    },
+    {
+        "test": "après la pluie, le *** temps",
+        "choices": [
+            "beau",
+            "bon",
+            "meilleur",
+            "mauvais"
+        ],
+        "solution": "beau"
+    },
+    {
+        "test": "aux échecs, les *** sont les plus près des rois",
+        "choices": [
+            "fous",
+            "joueurs",
+            "dames",
+            "femmes"
+        ],
+        "solution": "fous"
+    },
+    {
+        "test": "ce que *** veut, dieu le veut",
+        "choices": [
+            "femme",
+            "homme",
+            "tu",
+            "dieu"
+        ],
+        "solution": "femme"
+    },
+    {
+        "test": "bien mal acquis ne *** jamais",
+        "choices": [
+            "profite",
+            "suffit",
+            "vaut",
+            "vient"
+        ],
+        "solution": "profite"
+    },
+    {
+        "test": "bon ouvrier ne querelle pas ses ***",
+        "choices": [
+            "outils",
+            "voisins",
+            "ouvriers",
+            "clients"
+        ],
+        "solution": "outils"
+    },
+    {
+        "test": "dire et faire, *** deux",
+        "choices": [
+            "sont",
+            "donne",
+            "font",
+            "tous"
+        ],
+        "solution": "sont"
+    },
+    {
+        "test": "mieux vaut *** que jamais",
+        "choices": [
+            "tard",
+            "donner",
+            "bon",
+            "maintenant"
+        ],
+        "solution": "tard"
+    },
+    {
+        "test": "d'un sac *** ne peut tirer deux moutures",
+        "choices": [
+            "on",
+            "qui",
+            "nul",
+            "on"
+        ],
+        "solution": "on"
+    },
+    {
+        "test": "à qui dieu aide, *** ne peut nuire",
+        "choices": [
+            "nul",
+            "on",
+            "personne",
+            "rien"
+        ],
+        "solution": "nul"
+    },
+    {
+        "test": "il n'y a *** de rose de cent jours",
+        "choices": [
+            "point",
+            "pas",
+            "rien",
+            "plus"
+        ],
+        "solution": "point"
+    },
+    {
+        "test": "il faut le *** pour le croire",
+        "choices": [
+            "voir",
+            "boire",
+            "vouloir",
+            "croire"
+        ],
+        "solution": "voir"
+    },
+    {
+        "test": "on ne *** pas le poisson qui est encore dans la mer",
+        "choices": [
+            "vend",
+            "prend",
+            "connaît",
+            "perd"
+        ],
+        "solution": "vend"
+    },
+    {
+        "test": "la langue d'un *** vaut mieux que celle d'un menteur",
+        "choices": [
+            "muet",
+            "escroc",
+            "écrivain",
+            "homme"
+        ],
+        "solution": "muet"
+    },
+    {
+        "test": "*** femme fait le bon homme",
+        "choices": [
+            "bonne",
+            "souvent",
+            "qui",
+            "une"
+        ],
+        "solution": "bonne"
+    },
+    {
+        "test": "bonne *** fait le bon homme",
+        "choices": [
+            "femme",
+            "homme",
+            "étoile",
+            "terre"
+        ],
+        "solution": "femme"
+    },
+    {
+        "test": "bonne femme *** le bon homme",
+        "choices": [
+            "fait",
+            "veut",
+            "qui",
+            "sage"
+        ],
+        "solution": "fait"
+    },
+    {
+        "test": "bonne femme fait *** bon homme",
+        "choices": [
+            "le",
+            "beau",
+            "tout",
+            "rire"
+        ],
+        "solution": "le"
+    },
+    {
+        "test": "bonne femme fait le *** homme",
+        "choices": [
+            "bon",
+            "doux",
+            "jeune",
+            "bel"
+        ],
+        "solution": "bon"
+    },
+    {
+        "test": "bonne femme fait le bon ***",
+        "choices": [
+            "homme",
+            "femme",
+            "vin",
+            "pain"
+        ],
+        "solution": "homme"
+    },
+    {
+        "test": "*** que femme veut, dieu le veut",
+        "choices": [
+            "ce",
+            "mieux",
+            "tant",
+            "quoi"
+        ],
+        "solution": "ce"
+    },
+    {
+        "test": "ce *** femme veut, dieu le veut",
+        "choices": [
+            "que",
+            "quelle",
+            "la",
+            "jeune"
+        ],
+        "solution": "que"
+    },
+    {
+        "test": "ce que femme *** , dieu le veut",
+        "choices": [
+            "veut",
+            "fait",
+            "qui",
+            "font"
+        ],
+        "solution": "veut"
+    },
+    {
+        "test": "ce que femme veut, dieu le ***",
+        "choices": [
+            "veut",
+            "fait",
+            "veux",
+            "fait"
+        ],
+        "solution": "veut"
+    },
+    {
+        "test": "*** parleur, grand menteur",
+        "choices": [
+            "grand",
+            "petit",
+            "ni",
+            "gros"
+        ],
+        "solution": "grand"
+    },
+    {
+        "test": "grand parleur, *** menteur",
+        "choices": [
+            "grand",
+            "petit",
+            "ni",
+            "gros"
+        ],
+        "solution": "grand"
+    },
+    {
+        "test": "grand parleur, grand ***",
+        "choices": [
+            "menteur",
+            "homme",
+            "font",
+            "tous"
+        ],
+        "solution": "menteur"
+    },
+    {
+        "test": "*** poisson pourrit par la tête",
+        "choices": [
+            "le",
+            "gros",
+            "petit",
+            "un"
+        ],
+        "solution": "le"
+    },
+    {
+        "test": "le poisson pourrit par la ***",
+        "choices": [
+            "tête",
+            "faim",
+            "ville",
+            "bouche"
+        ],
+        "solution": "tête"
+    },
+    {
+        "test": "*** vaut prévenir que guérir",
+        "choices": [
+            "mieux",
+            "il",
+            "ne",
+            "bien"
+        ],
+        "solution": "mieux"
+    },
+    {
+        "test": "mieux *** prévenir que guérir",
+        "choices": [
+            "vaut",
+            "valait",
+            "pour",
+            "que"
+        ],
+        "solution": "vaut"
+    },
+    {
+        "test": "mieux vaut *** que guérir",
+        "choices": [
+            "prévenir",
+            "souffrir",
+            "attendre",
+            "savoir"
+        ],
+        "solution": "prévenir"
+    },
+    {
+        "test": "mieux vaut prévenir *** guérir",
+        "choices": [
+            "que",
+            "et",
+            "ou",
+            "sans"
+        ],
+        "solution": "que"
+    },
+    {
+        "test": "mieux vaut prévenir que ***",
+        "choices": [
+            "guérir",
+            "punir",
+            "faire",
+            "recevoir"
+        ],
+        "solution": "guérir"
+    },
+    {
+        "test": "*** la poire est mûre, elle tombe",
+        "choices": [
+            "quand",
+            "si",
+            "lorsque",
+            "parfois"
+        ],
+        "solution": "quand"
+    },
+    {
+        "test": "quand la *** est mûre, elle tombe",
+        "choices": [
+            "poire",
+            "plante",
+            "pomme",
+            "banane"
+        ],
+        "solution": "poire"
+    },
+    {
+        "test": "quand la poire *** mûre, elle tombe",
+        "choices": [
+            "est",
+            "devient",
+            "reste",
+            "semble"
+        ],
+        "solution": "est"
+    },
+    {
+        "test": "quand la poire est mûre, elle ***",
+        "choices": [
+            "tombe",
+            "vient",
+            "est",
+            "pousse"
+        ],
+        "solution": "tombe"
+    },
+    {
+        "test": "le *** fort fait la part au faible",
+        "choices": [
+            "plus",
+            "verbe",
+            "mot",
+            "très"
+        ],
+        "solution": "plus"
+    },
+    {
+        "test": "le plus fort *** la part au faible",
+        "choices": [
+            "fait",
+            "donne",
+            "cède",
+            "faisant"
+        ],
+        "solution": "fait"
+    },
+    {
+        "test": "il n’y a *** de nouveau sous le soleil",
+        "choices": [
+            "rien",
+            "personne",
+            "pas",
+            "plus"
+        ],
+        "solution": "rien"
+    },
+    {
+        "test": "gare-toi des princes ; ils *** cherchent guère que leur intérêt, et dieu sait comme ils l’entendent",
+        "choices": [
+            "ne",
+            "en",
+            "de",
+            "se"
+        ],
+        "solution": "ne"
+    },
+    {
+        "test": "*** vaut essuyer une larme du paysan, que d’obtenir cent sourires du ministre",
+        "choices": [
+            "mieux",
+            "mieux",
+            "bien",
+            "il"
+        ],
+        "solution": "mieux"
+    },
+    {
+        "test": "le capital du forgeron doit *** en charbon",
+        "choices": [
+            "être",
+            "etre",
+            "passer",
+            "tenir"
+        ],
+        "solution": "être"
+    },
+    {
+        "test": "qui a peur des feuilles, n’aille au ***",
+        "choices": [
+            "bois",
+            "jardin",
+            "marché",
+            "parc"
+        ],
+        "solution": "bois"
+    },
+    {
+        "test": "qui a peur des *** , n’aille au bois",
+        "choices": [
+            "feuilles",
+            "arbres",
+            "loups",
+            "bois"
+        ],
+        "solution": "feuilles"
+    },
+    {
+        "test": "l’eau va toujours *** la rivière",
+        "choices": [
+            "à",
+            "vers",
+            "dans",
+            "sur"
+        ],
+        "solution": "à"
+    },
+    {
+        "test": "l’eau *** toujours à la rivière",
+        "choices": [
+            "va",
+            "coule",
+            "appartient",
+            "ressemble"
+        ],
+        "solution": "va"
+    },
+    {
+        "test": "entre deux selles, le cul à ***",
+        "choices": [
+            "terre",
+            "découvert",
+            "sec",
+            "poil"
+        ],
+        "solution": "terre"
+    },
+    {
+        "test": "quand il n’y a plus de *** au râtelier, les ânes se battent",
+        "choices": [
+            "foin",
+            "viande",
+            "pain",
+            "riz"
+        ],
+        "solution": "foin"
+    },
+    {
+        "test": "pays *** vaut mieux que pays perdu",
+        "choices": [
+            "ruiné",
+            "gagné",
+            "perdu",
+            "conquis"
+        ],
+        "solution": "ruiné"
+    },
+    {
+        "test": "à maison laide arbre ***",
+        "choices": [
+            "mort",
+            "maison",
+            "bois",
+            "jardin"
+        ],
+        "solution": "mort"
+    },
+    {
+        "test": "nul n’est censé avoir voulu *** une sottise",
+        "choices": [
+            "faire",
+            "dire",
+            "commettre",
+            "entendre"
+        ],
+        "solution": "faire"
+    },
+    {
+        "test": "chacun *** son péché et charge celui d’autrui",
+        "choices": [
+            "décharge",
+            "assume",
+            "oublie",
+            "pardonne"
+        ],
+        "solution": "décharge"
+    }
+]
